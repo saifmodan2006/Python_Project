@@ -41,4 +41,3 @@ Notes
 License
 
 - No license file is included here. If you want this project to be shared under a specific license, add a `LICENSE` file and update the repository description.
-# Python_Project
